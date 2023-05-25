@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author PILR
+ * @author Pratyush
  */
 public class NewClass extends JFrame{
     private int[][] maze = 
