@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author PILR
+ * @author Pratyush
  */
 public class DepthFirst {
     public static boolean searchpath(int [][] maze, int x,int y,List<Integer> path){
